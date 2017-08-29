@@ -1,0 +1,30 @@
+h1 {
+    color: black;
+    font-family: sans-serif;
+    font-size: 48px;
+}
+h2 {
+    color: black;
+    font-family: serif;
+    font-size: 24px;
+}
+
+li {
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+    padding: 6px
+}
+
+.persdesc {
+    color: black;
+    font-family: serif;
+    font-size: 16px;
+}
+
+.lidesc {
+    color: black;
+    font-family: serif;
+    font-size: 16px;
+    padding-top: 2px;
+}
